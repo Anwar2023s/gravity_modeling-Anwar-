@@ -1,2 +1,4 @@
 # gravity_modeling-Anwar-
 lab 1 
+import skimage
+print(skimage.__version__)
